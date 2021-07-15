@@ -1,12 +1,12 @@
 {"status":true,
-"linkone":"https://aratpm.github.io/Ptaing/",
+"linkone":"https://abhiandroid.com/",
 "linktwo":"https://www.google.com/",
 
 "appId":"ca-app-pub-1179025313038187~8041395835",
 "banner":"ca-app-pub-1179025313038187/9162905817",
 "interstial":"ca-app-pub-1179025313038187/6711361663",
 "AppOpen":"ca-app-pub-1179025313038187/1284415799",
-"linkbackup":"https://aratpm.github.io/apyvi/",
+"linkbackup":"https://aratpm.github.io/Ptaing/",
 
 
 
