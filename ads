@@ -1,5 +1,5 @@
 {"status":true,
-"linkone":"https://aratpm.github.io/Ptaing/",
+"linkone":"https://www.google.com/",
 "linktwo":"https://www.google.com/",
 
 "appId":"ca-app-pub-1179025313038187~8041395835",
