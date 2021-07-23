@@ -19,6 +19,6 @@
 "appIdold":"ca-app-pub-1179025313038187~8041395835",
 "bannerold":"ca-app-pub-1179025313038187/9162905817",
 "interstialold":"ca-app-pub-1179025313038187/6711361663",
-"AppOpenold":"ca-app-pub-1179025313038187/1284415799",
+"AppOpenold":"ca-app-pub-1179025313038187/1284415799"
 
 }
