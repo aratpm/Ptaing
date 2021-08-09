@@ -3,8 +3,8 @@
 "linktwo":"https://aratpm.github.io/Ptaing/",
 
 "appId":"ca-app-pub-2449640894622823~3671378740",
-"banner":"ca-app-pub-2449640894622823/1783582005",
-"interstial":"ca-app-pub-2449640894622823/1592010313",
+"banner":"NOca-app-pub-2449640894622823/1783582005",
+"interstial":"NOca-app-pub-2449640894622823/1592010313",
 "AppOpen":"ca-app-pub-2449640894622823/6652765308",
 "linkbackup":"https://aratpm.github.io/Ptaing/",
 
